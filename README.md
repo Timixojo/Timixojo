@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Timileyin
-- 👀 I’m interested in social network 
+- 👋 Hi, I’m Steve
+- 👀 I’m interested in social networking 
 - 🌱 I’m currently learning full-stack Development 
-- 💞️ I’m looking to collaborate on projects related to programming 
+- 💞️ I’m look forward to collaborating on projects related to programming 
 - 📫 You can reach me via Ojotimileyina@gmail.com
 
 <!---
