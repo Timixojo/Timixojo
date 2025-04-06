@@ -5,6 +5,6 @@
 - 📫 You can reach me via Ojotimileyina@gmail.com
 
 <!---
-Timixojo/Timixojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unvisersity of Bolton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
