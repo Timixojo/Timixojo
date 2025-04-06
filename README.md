@@ -1,10 +1,11 @@
-- 👋 Hi, I’m Steve
+- 👋 Hi, I am Timileyin Ojo
 - 👀 I’m interested in social networking 
-- 🌱 I’m currently learning full-stack Development 
+- 🌱 Student of University of Bolton
+- Master by Research in Artificial Intelligence
 - 💞️ I look forward to collaborating on projects related to programming 
 - 📫 You can reach me via Ojotimileyina@gmail.com
 
 <!---
-Unvisersity of Bolton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
