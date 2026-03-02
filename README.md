@@ -2,7 +2,7 @@
 - 👀 I’m interested in social networking 
 - 🌱 Student of University of Bolton
 - Master by Research in Artificial Intelligence
-- 💞️ I look forward to collaborating on projects related to programming 
+- 💞️ I look forward to collaborating on projects related to data 
 - 📫 You can reach me via Ojotimileyina@gmail.com
 
 <!---
